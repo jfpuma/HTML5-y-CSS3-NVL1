@@ -1,0 +1,24 @@
+<style type="text/css">
+		
+	</style>
+p{
+	background: yellow
+}
+body{
+	background: silver
+}
+blockquote p{
+	background: orange
+}
+cite {
+	color:yellow;
+}
+#letras-purpuras{
+	color:purple;
+}
+
+div{
+	height: 300px;
+	width: 300px;
+	background: red;
+}
